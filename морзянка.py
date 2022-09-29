@@ -1,15 +1,10 @@
-a = str('A B W G D E V Z I J K L M N O P R S T U F H C Q X')
-abc = list(a)
-print (a)
-m = str('.- -... .-- --. -.. . ...- --.. .. .--- -.- .-.. -- - --- .--. .-. ... - ..- ..-. .... -.-. ---.  - ..- ..-. .... -.-. --.- -..-')
-morze = list(m)
-print morze.split(''))
-text = input()
-ind_m = ''
-for i in range (len(text_list)):
-    ind = abc.index(text[i])
-    ind_m = ind_m + norze[ind]
-print (indm)
+morze = {'a': '•—', 'b': '—•••', 'c': '—•—•', 'd': '—••', 'e': '•', 'f': '••—•', 'g': '——•', 'h': '••••', 'i': '••', 'j': '•———', 'k': '—•—', 'l': '•—••', 'm': '——', 'n': '—•', 'o': '———', 'p': '•——•', 'q': '——•—', 'r': '•—•', 's': '•••', 't': '—', 'u': '••—', 'v': '•••—', 'w': '•——', 'x': '—••—', 'y': '—•——', 'z': '——••'}
+word=input("Введите слово на английском языке: ")
+morze_word=' '
+for letter in word:
+    letter=letter.lower()
+
+    print(f"{letter}: {morze[letter]}")
     
     
     
