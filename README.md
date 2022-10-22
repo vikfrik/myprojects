@@ -1,7 +1,7 @@
-# Добрый день
-### Фрик Виктор Витальевич, 142 группа
-#### Это код
-![alt text](https://thecode.media/wp-content/uploads/2019/06/pasted-image-0-4-1024x575.png)
+# Здесь расположены все проекты, которые делал по информатике, 142 группа
+
+![alt text](https://sun4-16.userapi.com/impg/g_qx3NQFy35JeSryi2i94jekOXSsDkTjFAXVjQ/I4UABBLEIr4.jpg?size=1045x1073&quality=96&sign=9081bea8271b4ce6e7ef63c412d8f295&type=album)
+
 ### Файлы:
 #### Фрик_1.xlsx - таблица умножения до 20, перевод числа в 10-чную систему из 8-чной
 #### Фрик_2.xlsx - морзянка в экселе
