@@ -18,3 +18,6 @@
 #### нейронка.jpg - фото процесса работы с нейросимулятором
 #### Automatic Mouse_Фрик.png - результат работы с Automatic Mouse and Keyboard
 #### логические операции_фрик.py - программа логического уравнения в питоне
+Пример закона логики:
+
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114554675/198191807-9233ea3b-b0ce-454a-b7b2-99a8d22034c2.png)
