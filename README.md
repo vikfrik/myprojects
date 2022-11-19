@@ -1,5 +1,5 @@
 # Здесь расположены все проекты, которые делал по информатике
-Фрик Виктор, 142 группа
+Фрик Виктор, 112 группа
 
 ![alt text](https://sun4-16.userapi.com/impg/g_qx3NQFy35JeSryi2i94jekOXSsDkTjFAXVjQ/I4UABBLEIr4.jpg?size=1045x1073&quality=96&sign=9081bea8271b4ce6e7ef63c412d8f295&type=album)
 
