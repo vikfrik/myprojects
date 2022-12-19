@@ -1,0 +1,16 @@
+def noun(n, k = 3, s = []):
+    if n % 2 == 0:
+        return noun(n/2, k, s + [2])
+    elif n % k == 0:
+        return noun(n/k, k, s + [k])
+    elif n == 1:
+        return s
+    else:
+        return noun(n, k + 2, s)
+        
+n = int(input())
+stroka = f'{n} = '
+if noun(n):
+    for i in range(len(noun(n))-1):
+        stroka += f'{noun(n)[i]}*'
+print(f'{stroka}{noun(n)[i+1]}')
